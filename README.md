@@ -14,6 +14,6 @@ This repository contains starter code for Portfolio website created using ReactJ
 # How to run this project locally
 
 * Create a virtual environments for python by executing the command venv:
-* python -m venv /path/to/new/virtual/environment
+ python -m venv /path/to/new/virtual/environment
 
 
