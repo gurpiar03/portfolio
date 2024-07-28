@@ -15,16 +15,16 @@ This repository contains starter code for Portfolio website created using ReactJ
 
 * Create a virtual environments for python by executing the command venv:
   
- python -m venv /path/to/new/virtual/environment
+  python -m venv /path/to/new/virtual/environment
 
 
 * open backend file in visual studio code  and activate virtual environment:
 
-C:\> <venv>\Scripts\activate.bat
+  C:\> <venv>\Scripts\activate.bat
 
 * navigate to bacend forlder and run :
 
-py manage.py runserver
+  py manage.py runserver
     
 
 
