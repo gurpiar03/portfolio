@@ -24,7 +24,11 @@ This repository contains starter code for Portfolio website created using ReactJ
 
 * navigate to bacend forlder and run :
 
+  py manage.py migrate
+  
   py manage.py runserver
+
+  Now open http://127.0.0.1:8000/
     
 
 
