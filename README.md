@@ -10,4 +10,10 @@ This repository contains starter code for Portfolio website created using ReactJ
 <img width="948" alt="web6" src="https://github.com/user-attachments/assets/fd5f0010-de12-41fb-ae9e-cb5ee2ce642d">
 
 
+
 # How to run this project locally
+
+* Create a virtual environments for python by executing the command venv:
+* python -m venv /path/to/new/virtual/environment
+
+
