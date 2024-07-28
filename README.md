@@ -36,5 +36,9 @@ This repository contains starter code for Portfolio website created using ReactJ
 
   Now open http://localhost:5173/
 
+ # External Libraries used in this project:
+ * [React.js](https://react.dev/)
+ * [Django](https://www.djangoproject.com/)
+
 
 
